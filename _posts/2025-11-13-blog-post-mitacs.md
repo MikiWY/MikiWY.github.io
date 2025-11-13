@@ -12,7 +12,7 @@ tags:
   - Banff
 ---
 
-![Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)
+[Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)
 ## An Unforgettable Research Journey Fully Funded by Mitacs and CSC
 
 From July to September 2025, I embarked on an incredible research journey through the Mitacs Globalink Research Internship program, fully funded by both Mitacs and the China Scholarship Council (CSC). This experience almost didn't happen due to some unexpected challenges, but ultimately became one of the most rewarding periods of my academic life.
@@ -25,7 +25,7 @@ My journey began in September 2024 when I applied for the Mitacs selection proce
 
 I conducted my research at the [**University of Alberta's Augustana Campus**](https://apps.ualberta.ca/directory/person/meixi8) in Camrose, Alberta, under the supervision of **Dr. Varghese Manaloor**. My research project focused on **comparative transnational analysis of economic growth between China and India**.
 
-![Augustana Campus]("augustana.png")
+![Augustana Campus](augustana.png)
 
 ### Life in Camrose
 
@@ -36,34 +36,37 @@ Camrose is a harmonious and quiet town that offered the perfect environment for 
 
 One of the most memorable personal moments was celebrating my 22nd birthday in Canada. Surrounded by my roommate and Harmony, I reflected on how my 21st year had been truly shining - filled with academic achievements, personal growth, and now this incredible international experience. It felt symbolic to welcome my 22nd year in this beautiful country, marking both an end and a beginning in my life journey.
 
-![Happy 22nd Birthday!]("birthday.png")
+![Happy 22nd Birthday!](birthday.png)
 
 ### Research Symposium and Awards
 
-![Research Symposium]("rsvp_presentation.jpg")
+![Research Symposium](rsvp.png)
 *Presenting my research at the North Campus Research Symposium*
 
 A highlight of the internship was attending the Research Symposium at the North Campus, where I had the opportunity to present my research findings. The experience was made even more memorable when I received an award for my work.
 
-![Award Ceremony]("ua_certification.jpg")
+![Award Ceremony](certification.png)
 *Receiving recognition for my research contributions*
 
 ### Exploring Banff National Park
 
 Following the symposium, we embarked on a trip to **Banff National Park**, a truly mesmerizing destination that felt like spiritual cleansing.
 
-![Tunnel Trail]("tunnel.png")
+![Tunnel Trail](tunnel.png)
 *The breathtaking view of Bow River from Tunnel Trail*
 
-![Lake Louise]("louis.png")
+![Lake Louise](louis.png)
 *The stunning turquoise waters of Lake Louise seen from Little Beehive summit*
 
-![Banff Town]("Banff.jpg")
+![Banff Town](Banff.png)
 *Banff town view*
 
 The hike up **Tunnel Trail** rewarded us with spectacular views of the **Bow River**, while climbing **Little Beehive** revealed the awe-inspiring beauty of **Lake Louise**. These natural wonders left an indelible mark on my memory.
 
-![Lake Minnewanka]("minnewanka.png")
+![Absorbed by Lake Louis](me.png)
+*Absorbed by Lake Louis*
+
+![Lake Minnewanka](minnewanka.png)
 *Lake Minnewanka
 ### Gratitude and Reflection
 
