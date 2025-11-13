@@ -39,16 +39,19 @@ Camrose is a harmonious and quiet town that offered the perfect environment for 
 One of the most memorable personal moments was celebrating my 22nd birthday in Canada. Surrounded by my roommate and Harmony, I reflected on how my 21st year had been truly shining - filled with academic achievements, personal growth, and now this incredible international experience. It felt symbolic to welcome my 22nd year in this beautiful country, marking both an end and a beginning in my life journey.
 
 ![Happy 22nd Birthday!](../images/birthday.png)
+
 *Happy 22nd Birthday!*
 
 ### Research Symposium and Awards
 
 ![Research Symposium](../images/rsvp.png)
+
 *Presenting my research at the North Campus Research Symposium*
 
 A highlight of the internship was attending the Research Symposium at the North Campus, where I had the opportunity to present my research findings. The experience was made even more memorable when I received an award for my work.
 
 ![Award Ceremony](../images/certification.png)
+
 *Receiving recognition for my research contributions*
 
 ### Exploring Banff National Park
@@ -56,20 +59,25 @@ A highlight of the internship was attending the Research Symposium at the North 
 Following the symposium, we embarked on a trip to **Banff National Park**, a truly mesmerizing destination that felt like spiritual cleansing.
 
 ![Tunnel Trail](../images/tunnel.png)
+
 *The breathtaking view of Bow River from Tunnel Trail*
 
 ![Lake Louise](../images/louis.png)
+
 *The stunning turquoise waters of Lake Louise seen from Little Beehive summit*
 
 ![Banff Town](../images/Banff.png)
+
 *Banff town view*
 
 The hike up **Tunnel Trail** rewarded us with spectacular views of the **Bow River**, while climbing **Little Beehive** revealed the awe-inspiring beauty of **Lake Louise**. These natural wonders left an indelible mark on my memory.
 
 ![Absorbed by Lake Louis](../images/me.png)
+
 *Absorbed by Lake Louis*
 
 ![Lake Minnewanka](../images/minnewanka.png)
+
 *Lake Minnewanka
 ### Gratitude and Reflection
 
