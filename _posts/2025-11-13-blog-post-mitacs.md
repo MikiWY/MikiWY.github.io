@@ -1,0 +1,76 @@
+---
+title: 'My Mitacs Globalink Research Internship Journey in Canada'
+date: 2025-11-13
+permalink: /posts/2025/10/mitacs-globalink-internship/
+tags:
+  - research
+  - internship
+  - Canada
+  - Mitacs
+  - CSC
+  - University of Alberta
+  - Banff
+---
+
+![Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)
+## An Unforgettable Research Journey Fully Funded by Mitacs and CSC
+
+From July to September 2025, I embarked on an incredible research journey through the Mitacs Globalink Research Internship program, fully funded by both Mitacs and the China Scholarship Council (CSC). This experience almost didn't happen due to some unexpected challenges, but ultimately became one of the most rewarding periods of my academic life.
+
+### The Application Process and Challenges
+
+My journey began in September 2024 when I applied for the Mitacs selection process. The path wasn't smooth - after going through multiple rounds of selection, my visa application underwent additional background checks (administrative processing), making me fear that this opportunity might slip away. Fortunately, through persistence and luck, I finally made it to Canada.
+
+### Research at Augustana Campus
+
+I conducted my research at the [**University of Alberta's Augustana Campus**](https://apps.ualberta.ca/directory/person/meixi8) in Camrose, Alberta, under the supervision of **Dr. Varghese Manaloor**. My research project focused on **comparative transnational analysis of economic growth between China and India**.
+
+![Augustana Campus](https://www.ualberta.ca/en/augustana/index.html)
+
+### Life in Camrose
+
+Camrose is a harmonious and quiet town that offered the perfect environment for focused research. I was fortunate to live in comfortable accommodation with a wonderful landlord, and the beautiful parks nearby - particularly the one close to my residence - provided serene spaces for relaxation and reflection.
+
+### A Special Birthday in Canada
+
+One of the most memorable personal moments was celebrating my 22nd birthday in Canada. Surrounded by my roommate and Harmony, I reflected on how my 21st year had been truly shining - filled with academic achievements, personal growth, and now this incredible international experience. It felt symbolic to welcome my 22nd year in this beautiful country, marking both an end and a beginning in my life journey.
+
+![Happy 22nd Birthday!](22_birthday.jpg)
+
+### Research Symposium and Awards
+
+![Research Symposium]("rsvp_presentation.jpg")
+*Presenting my research at the North Campus Research Symposium*
+
+A highlight of the internship was attending the Research Symposium at the North Campus, where I had the opportunity to present my research findings. The experience was made even more memorable when I received an award for my work.
+
+![Award Ceremony]("ua_certification.jpg")
+*Receiving recognition for my research contributions*
+
+### Exploring Banff National Park
+
+Following the symposium, we embarked on a trip to **Banff National Park**, a truly mesmerizing destination that felt like spiritual cleansing.
+
+![Tunnel Trail]("tunnel.jpg")
+*The breathtaking view of Bow River from Tunnel Trail*
+
+![Lake Louise]("louis.jpg")
+*The stunning turquoise waters of Lake Louise seen from Little Beehive summit*
+
+![Banff Town]("Banff.jpg")
+*Banff town view
+
+The hike up **Tunnel Trail** rewarded us with spectacular views of the **Bow River**, while climbing **Little Beehive** revealed the awe-inspiring beauty of **Lake Louise**. These natural wonders left an indelible mark on my memory.
+
+![Lake Minnewanka]("minnewanka.jpg")
+*Lake Minnewanka
+### Gratitude and Reflection
+
+This three-month journey was not just about academic research; it was a period of personal growth, cultural exchange, and self-discovery. I'm deeply grateful for this opportunity that allowed me to briefly understand and connect with Canada, its people, and its magnificent landscapes.
+
+**Program**: Mitacs Globalink Research Internship  
+**Funding**: Fully funded by Mitacs and China Scholarship Council  
+**Duration**: July - September 2025  
+**Location**: University of Alberta, Augustana Campus, Camrose, Alberta  
+**Supervisor**: Dr. Varghese Manaloor  
+**Research Focus**: Comparative analysis of China-India economic growth
