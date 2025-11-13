@@ -1,22 +1,7 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Is the development of the digital economy conducive to the integration of the industrial chain and the innovation chain? Empirical evidence from global cross-country studies<br />The 2nd Tsinghua Digital Economic TiDES Forum & The 2nd Academic Seminar of the Digital Economy Innovation Committee of the Chinese Information Economics Society; Shanghai University, Shanghai, China",
+    31.3159206,
+    121.3880243
   ]
 ];
