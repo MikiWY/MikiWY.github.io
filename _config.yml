@@ -13,8 +13,7 @@ title                    : "Meixi WEI / Economics"
 title_separator          : "-"
 name                     : &name "Meixi(FLora) WEI"
 description              : &description "Meixi WEI's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://mikiwy.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://mikiwy.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MikiWY/MikiWY.github.io"
 
@@ -26,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Meixi(Flora)"
   pronouns         : "she/her"  
-  bio              : "Studying is learning."
+  bio              : "Learning is a lifelong journey, always on the way."
   location         : "China"
   employer         : "Sichuan University"
   uri              : # URL
