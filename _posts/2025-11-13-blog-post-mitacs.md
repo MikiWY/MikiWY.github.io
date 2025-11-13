@@ -78,7 +78,7 @@ The hike up **Tunnel Trail** rewarded us with spectacular views of the **Bow Riv
 
 ![Lake Minnewanka](../images/minnewanka.png)
 
-*Lake Minnewanka
+*Lake Minnewanka*
 ### Gratitude and Reflection
 
 This three-month journey was not just about academic research; it was a period of personal growth, cultural exchange, and self-discovery. I'm deeply grateful for this opportunity that allowed me to briefly understand and connect with Canada, its people, and its magnificent landscapes.
