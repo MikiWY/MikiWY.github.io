@@ -12,9 +12,10 @@ tags:
   - Banff
 ---
 
-[Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)
-## An Unforgettable Research Journey Fully Funded by Mitacs and CSC
 
+### An Unforgettable Research Journey Fully Funded by Mitacs and CSC
+
+[Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)
 From July to September 2025, I embarked on an incredible research journey through the Mitacs Globalink Research Internship program, fully funded by both Mitacs and the China Scholarship Council (CSC). This experience almost didn't happen due to some unexpected challenges, but ultimately became one of the most rewarding periods of my academic life.
 
 ### The Application Process and Challenges
