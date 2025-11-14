@@ -27,9 +27,8 @@ My journey began in September 2024 when I applied for the Mitacs selection proce
 
 I conducted my research at the [**University of Alberta's Augustana Campus**](https://apps.ualberta.ca/directory/person/meixi8) in Camrose, Alberta, under the supervision of **Dr. Varghese Manaloor**. My research project focused on **comparative transnational analysis of economic growth between China and India**.
 
-<center>
 ![Augustana Campus](https://mikiwy.github.io/images/augustana.png)
-<center>
+
   
 ### Life in Camrose
 
@@ -41,11 +40,11 @@ Camrose is a harmonious and quiet town that offered the perfect environment for 
 
 One of the most memorable personal moments was celebrating my 22nd birthday in Canada. Surrounded by my roommate and Harmony, I reflected on how my 21st year had been truly shining - filled with academic achievements, personal growth, and now this incredible international experience. It felt symbolic to welcome my 22nd year in this beautiful country, marking both an end and a beginning in my life journey.
 
-<center>
+
 ![Happy 22nd Birthday!](https://mikiwy.github.io/images/birthday.png)
 
 *Happy 22nd Birthday!*
-<center>
+
 ### Research Symposium and Awards
 
 ![Research Symposium](https://mikiwy.github.io/images/rsvp.png)
