@@ -67,7 +67,7 @@ Following the symposium, we embarked on a trip to **Banff National Park**, a tru
 
 ![Lake Louise](https://mikiwy.github.io/images/louis.png)
 
-*The stunning turquoise waters of Lake Louise seen from Little Beehive summit*
+*The stunning turquoise waters of Lake Louise*
 
 ![Banff Town](https://mikiwy.github.io/images/Banff.png)
 
