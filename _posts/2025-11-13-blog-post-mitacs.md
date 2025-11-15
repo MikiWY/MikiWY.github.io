@@ -36,6 +36,8 @@ Camrose is a harmonious and quiet town that offered the perfect environment for 
 
 ![You can see deer everywhere in Camrose!](https://mikiwy.github.io/images/deer.png)
 
+*You can see deer everywhere!*
+
 ### A Special Birthday in Canada
 
 One of the most memorable personal moments was celebrating my 22nd birthday in Canada. Surrounded by my roommate and Harmony, I reflected on how my 21st year had been truly shining - filled with academic achievements, personal growth, and now this incredible international experience. It felt symbolic to welcome my 22nd year in this beautiful country, marking both an end and a beginning in my life journey.
