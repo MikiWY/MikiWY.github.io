@@ -9,7 +9,7 @@ tags:
   - Mitacs
   - CSC
   - University of Alberta
-  - Banff
+  - travel
 ---
 
 
